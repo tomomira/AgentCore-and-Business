@@ -201,3 +201,65 @@ Agent Core活用により、ISSB・SSBJ基準完全準拠のESG・TCFD報告書�
 - 基準違反リスクの事前警告
 - システム障害時のバックアップ機能
 - 承認プロセスでの多重チェック機能
+
+## 7. 用語解説
+
+**Agent Core**
+AWSが提供する次世代AI基盤。Runtime（実行環境）、Memory（記憶・学習）、Gateway（外部連携）、Identity（認証・権限）の4つのコンポーネントで構成される統合AIプラットフォーム。
+
+**ESG**
+Environment（環境）、Social（社会）、Governance（ガバナンス）の頭文字。企業の持続可能性と社会的責任を評価する投資判断基準。
+
+**TCFD**
+Task Force on Climate-related Financial Disclosures（気候関連財務情報開示タスクフォース）。企業の気候変動関連リスクと機会の開示フレームワーク。
+
+**ISSB**
+International Sustainability Standards Board（国際サステナビリティ基準審議会）。グローバルなサステナビリティ開示基準を策定する国際機関。
+
+**SSBJ**
+Sustainability Standards Board of Japan（サステナビリティ基準委員会）。日本におけるサステナビリティ開示基準の策定機関。
+
+**IFRS S1/S2**
+国際財務報告基準のサステナビリティ開示基準。S1は一般要求事項、S2は気候関連開示を規定。
+
+**Strauds**
+Agent Coreと連携するヒューマン・AI協働フレームワーク。AIが自動化困難な複雑判断や専門的評価を人間専門家が担当する仕組み。
+
+**シナリオ分析**
+気候変動の異なる将来シナリオ下での事業インパクトを定量評価する手法。TCFD開示の中核要素。
+
+## 8. 参考文献・情報源
+
+**法規制・基準**
+- 金融庁「サステナビリティ開示基準」
+  https://www.fsa.go.jp/news/r4/singi/20221216-1.html
+- 東京証券取引所「プライム市場上場会社向けTCFD開示義務化」
+  https://www.jpx.co.jp/corporate/sustainability/index.html
+- ISSB "IFRS S1 & S2 Standards"
+  https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/
+- TCFD "Recommendations of the Task Force on Climate-related Financial Disclosures"
+  https://www.fsb-tcfd.org/
+
+**市場データ・調査**
+- KPMG「ESG報告書調査2022」
+  https://kpmg.com/jp/ja/home/insights/2022/12/esg-reporting-survey.html
+- PwC「ESG情報開示に関する実態調査」
+  https://www.pwc.com/jp/ja/knowledge/prm/esg-disclosure-survey.html
+- デロイト「サステナビリティ報告書作成支援サービス」
+  https://www2.deloitte.com/jp/ja/pages/strategy-operations/articles/sustainability-reporting.html
+
+**技術・ガイドライン**
+- 環境省「TCFDガイダンス3.0」
+  https://www.env.go.jp/policy/policy/tcfd/tcfd_guidance.html
+- 経済産業省「非財務情報の開示指針研究会」
+  https://www.meti.go.jp/shingikai/economy/hirizaumu_info/index.html
+- CDP "Climate Change Questionnaire"
+  https://www.cdp.net/en/climate
+
+**ESG評価・投資**
+- MSCI ESG Research
+  https://www.msci.com/our-solutions/esg-investing
+- Sustainalytics ESG Risk Ratings
+  https://www.sustainalytics.com/esg-ratings
+- FTSE Russell ESG Ratings
+  https://www.ftserussell.com/data/sustainability-and-esg-data
